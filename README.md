@@ -1,18 +1,18 @@
-<h1 align="center">Hey there! 👋 I'm Rohit Prajapati</h1>
-<h3 align="center">🚀 Flutter Developer | 💻 Mobile App Enthusiast | 📍 India</h3>
+<h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
+<h3 align="center">Flutter Developer | Mobile App Creator | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="coding" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="flutter-coding" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **NCERT Book App**, **WeatherNow**, and an **E-commerce UI**
-- 🌱 Learning more about **Clean Architecture, Bloc, Firebase & APIs**
-- 💬 Ask me anything related to **Flutter, Dart, Firebase, REST APIs**
-- 🧠 Passionate about **writing clean code** & **creating amazing UI/UX**
+- 💙 I love building beautiful, fast, and scalable mobile apps using Flutter.
+- 📱 I build cross-platform apps for **Android & iOS** with clean architecture.
+- 🔥 Dedicated to delivering **UI-rich** experiences & performance-optimized code.
+- 🧠 Focused on continuous learning, clean code, and best practices.
 - 📫 Reach me at: **rohitprajapati09190@gmail.com**
 
 ---
@@ -24,21 +24,11 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| App Name               | Description                                        | GitHub Link |
-|------------------------|----------------------------------------------------|-------------|
-| **📚 NCERT Class 12**  | Offline NCERT PDF reader with dark mode & share 📄 | [View Repo](https://github.com/rohitprajapati-bit/ncert-class-12) |
-| **🌦️ WeatherNow**     | Real-time weather forecast with 3-hour breakdown ☁️ | [View Repo](https://github.com/rohitprajapati-bit/weathernow) |
-| **🛒 Tech Store**      | Beautiful e-commerce UI for phones & laptops 💻    | [View Repo](https://github.com/rohitprajapati-bit/tech-store) |
 
 ---
 
@@ -68,9 +58,7 @@
 
 ---
 
-### 🧠 Quote for Devs
+### 💬 Dev Quote
 
-> _“First, solve the problem. Then, write the code.” – John Johnson_
-
----
+> _“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_
 
