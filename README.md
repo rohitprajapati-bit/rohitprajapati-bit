@@ -38,7 +38,7 @@
 <p>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
 </p>
 
 #### 🎨 UI/UX & Design
@@ -74,7 +74,7 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://rohit-portfolio.vercel.app" target="_blank">
+  <a href="https://rohit-portfolio.vercel.app" target="https://portfolio-db7ad.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohitprajapati09190/" target="_blank">
