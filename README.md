@@ -38,7 +38,15 @@
 <p>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
+</p>
+
+#### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=google-cloud&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sqflite-4DB33D?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FF7F50?style=for-the-badge&logo=hive&logoColor=white"/>
 </p>
 
 #### 🎨 UI/UX & Design
@@ -69,12 +77,13 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
+
 ---
 
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://rohit-portfolio.vercel.app" target="https://portfolio-db7ad.web.app/">
+  <a href="https://portfolio-db7ad.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohitprajapati09190/" target="_blank">
@@ -97,7 +106,5 @@
 
 ---
 
-### 💬 Dev Quote
 
-> _“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_
 
